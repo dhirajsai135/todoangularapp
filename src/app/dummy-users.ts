@@ -1,0 +1,32 @@
+export const DUMMY_USERS = [
+    {
+        id:"u1",
+        name:"Dhiraj",
+        avatar:'user-1.jpg'
+    },
+    {
+        id:"u2",
+        name:"Venkata",
+        avatar:'user-2.jpg'
+    },
+    {
+        id:"u3",
+        name:"Phani",
+        avatar:'user-3.jpg'
+    },
+    {
+        id:"u4",
+        name:"Sai",
+        avatar:'user-4.jpg'
+    },
+    {
+        id:"u5",
+        name:"Krishna",
+        avatar:'user-5.jpg'
+    },
+    {
+        id:"u6",
+        name:"Gandrakota",
+        avatar:'user-6.jpg'
+    }
+];
